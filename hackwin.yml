@@ -3,7 +3,7 @@
 # the Gate always read it from the default branch on GitHub.
 
 schema: 1
-cli_version: 0.1.0-pre.2
+cli_version: 0.1.1-pre.2
 project:
   default_branch: main
   language: en
